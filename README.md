@@ -2,7 +2,7 @@
 
 Welcome to GamesPlay
 
-##Local installation
+<h1>Local installation</h1>
 
 To install and preview locally, follow these steps:
 
